@@ -1,0 +1,2 @@
+*.mangadex.network
+mangadex.org/data
