@@ -131,6 +131,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "mangadex",
+			"description": "CDN for mangadex",
+			"domain_files": ["mangadex.txt"]	
 		}
 	]
 }
